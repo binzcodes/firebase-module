@@ -82,7 +82,7 @@ See list of all available services [here](/guide/options#services).
 You can also separate the config from the module array by using the **firebase** object:
 
 ```js[nuxt.config.js]
-modules: ['@nuxtjs/firebase'],
+modules: ['@nuxt/firebase'],
 
 firebase: {
    // options
